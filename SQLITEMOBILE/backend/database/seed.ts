@@ -1,3 +1,4 @@
+// Contém os 12 livros usados para demonstrar inicialmente o aplicativo.
 import type { DadosLivro } from '../models/Livro.ts';
 
 export const LIVROS_DEMONSTRACAO: DadosLivro[] = [

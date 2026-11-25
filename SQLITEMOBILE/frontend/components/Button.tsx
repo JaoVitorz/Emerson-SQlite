@@ -1,3 +1,4 @@
+// Componente reutilizável de botão com estilos e estados visuais configuráveis.
 import { Pressable } from 'react-native';
 import { T } from './Typography';
 import { C } from '../styles/theme';

@@ -1,3 +1,4 @@
+// Tela principal: controla lista, busca, detalhes, cadastro, edição e exclusão dos livros.
 import React, { useCallback, useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,

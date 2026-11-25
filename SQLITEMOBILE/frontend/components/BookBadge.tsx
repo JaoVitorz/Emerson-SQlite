@@ -1,3 +1,4 @@
+// Exibe em cada cartão o gênero e a avaliação de um livro.
 import { View } from 'react-native';
 import { Star } from 'lucide-react-native';
 import type { Livro } from '../../backend/models/Livro';

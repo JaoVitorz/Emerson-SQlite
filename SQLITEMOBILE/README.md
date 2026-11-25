@@ -1,6 +1,6 @@
 # MeusLivros
 
-Aplicativo mobile de biblioteca pessoal em React Native + Expo SDK 54, adaptado da base SQLITEMOBILE do professor Emerson Rocha. Implementa as cinco telas do [Figma MeusLivros](https://www.figma.com/design/3gY0yoA0YUGlz6mLpGNbFI/App-CRUD-SQLite---MeusLivros--Design-?node-id=4-249): lista, detalhes, cadastro, edição e confirmação de exclusão.
+Aplicativo mobile de biblioteca pessoal em React Native + Expo SDK 58, adaptado da base SQLITEMOBILE do professor Emerson Rocha. Implementa as cinco telas do [Figma MeusLivros](https://www.figma.com/design/3gY0yoA0YUGlz6mLpGNbFI/App-CRUD-SQLite---MeusLivros--Design-?node-id=4-249): lista, detalhes, cadastro, edição e confirmação de exclusão.
 
 ## Executar
 
@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-Abra o projeto em um dispositivo Android/iOS com uma versão do Expo Go compatível com SDK 54 ou em um development build desse SDK. Celular e computador devem estar na mesma rede. Para um emulador Android já iniciado, use `npm run android`. A versão web de demonstração inicia com `npm run web`.
+Abra o projeto em um dispositivo Android/iOS com uma versão do Expo Go compatível com SDK 58 ou em um development build desse SDK. Celular e computador devem estar na mesma rede. Para um emulador Android já iniciado, use `npm run android`. A versão web de demonstração inicia com `npm run web`.
 
 O projeto mantém o SDK da base. Versões do Expo Go que aceitam somente SDKs mais recentes exigem um cliente compatível ou a atualização conjunta do Expo e das dependências.
 

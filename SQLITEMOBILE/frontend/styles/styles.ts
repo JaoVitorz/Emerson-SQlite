@@ -1,3 +1,4 @@
+// Contém os estilos compartilhados da interface React Native em StyleSheet.
 import { StyleSheet } from 'react-native';
 import { C, SERIF } from './theme';
 

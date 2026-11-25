@@ -1,3 +1,4 @@
+// Cria a capa visual colorida de um livro a partir do título e dos dados cadastrados.
 import { View } from 'react-native';
 import type { Livro } from '../../backend/models/Livro';
 import { T } from './Typography';

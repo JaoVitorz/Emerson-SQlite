@@ -1,3 +1,4 @@
+// Define gêneros, tipos de dados e tamanho da paginação utilizados pelo projeto.
 export const GENEROS = [
   'Romance',
   'Fantasia',

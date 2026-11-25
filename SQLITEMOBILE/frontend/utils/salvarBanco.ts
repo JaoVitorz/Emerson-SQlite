@@ -1,3 +1,4 @@
+// Implementação nativa: prepara o arquivo SQLite e usa o compartilhamento do dispositivo.
 import { File, Paths } from 'expo-file-system';
 import * as Sharing from 'expo-sharing';
 

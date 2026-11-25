@@ -1,3 +1,4 @@
+// Mantém uma única conexão aberta com o banco MeusLivros.db do aplicativo.
 import * as SQLite from 'expo-sqlite';
 import { inicializarBanco } from './initialize.ts';
 

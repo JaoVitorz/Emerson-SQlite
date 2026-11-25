@@ -1,3 +1,4 @@
+// Define o componente de texto padrão da interface para aplicar a tipografia comum.
 import { Text } from 'react-native';
 import type { TextProps } from 'react-native';
 import { s } from '../styles/styles';

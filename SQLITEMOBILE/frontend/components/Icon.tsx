@@ -1,3 +1,4 @@
+// Centraliza os nomes dos ícones lucide usados pelas telas e componentes.
 import {
   Plus,
   Search,

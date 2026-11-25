@@ -1,3 +1,4 @@
+// Expõe ao frontend operações simples que obtêm a conexão e delegam ao repositório.
 import { Banco } from '../database/connection.ts';
 import * as repository from '../repositories/livrosRepository.ts';
 import type { DadosLivro } from '../models/Livro.ts';

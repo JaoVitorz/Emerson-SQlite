@@ -1,3 +1,4 @@
+-- Cria a estrutura das tabelas LIVRO e APP_CONFIG e habilita configurações do SQLite.
 -- Execute em um banco SQLite. Não apaga tabelas existentes.
 PRAGMA journal_mode = WAL;
 PRAGMA foreign_keys = ON;

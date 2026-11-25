@@ -1,3 +1,4 @@
+// Centraliza o comando SQL de inserção e a conversão dos dados em parâmetros.
 import type { DadosLivro } from '../models/Livro.ts';
 
 export const INSERT =

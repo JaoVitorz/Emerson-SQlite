@@ -1,3 +1,4 @@
+// Configura o empacotador do Expo e os recursos necessários pelo SQLite Web.
 const { getDefaultConfig } = require('expo/metro-config');
 const config = getDefaultConfig(__dirname);
 for (const ext of ['wasm', 'svg']) {

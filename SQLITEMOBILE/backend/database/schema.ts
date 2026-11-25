@@ -12,3 +12,4 @@ export const SCHEMA = `
   );
   CREATE TABLE IF NOT EXISTS APP_CONFIG (chave TEXT PRIMARY KEY NOT NULL, valor TEXT NOT NULL);
 `;
+// SQL escrito manualmente; sem ORM. A tabela original USUARIO não é alterada.

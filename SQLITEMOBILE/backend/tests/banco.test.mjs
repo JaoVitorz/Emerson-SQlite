@@ -1,3 +1,4 @@
+// Testa o banco real com SQLite, cobrindo inicialização, CRUD, busca, validação e persistência.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { DatabaseSync } from 'node:sqlite';

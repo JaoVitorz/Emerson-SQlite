@@ -1,3 +1,4 @@
+// Inicializa o SQLite, cria o esquema e registra a carga inicial dos livros uma única vez.
 import type { SQLiteDatabase } from 'expo-sqlite';
 import { SCHEMA } from './schema.ts';
 import { LIVROS_DEMONSTRACAO } from './seed.ts';

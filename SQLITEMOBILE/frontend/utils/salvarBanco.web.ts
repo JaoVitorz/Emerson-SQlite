@@ -1,3 +1,4 @@
+// Implementação web: gera um download do banco SQLite no navegador.
 export async function salvarBanco(bytes: Uint8Array) {
   const blob = new Blob([Uint8Array.from(bytes).buffer], {
     type: 'application/vnd.sqlite3',

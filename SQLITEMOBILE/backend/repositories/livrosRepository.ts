@@ -1,3 +1,4 @@
+// Camada de acesso aos dados: executa busca, cadastro, edição, exclusão e paginação em SQLite.
 import type { SQLiteDatabase } from 'expo-sqlite';
 import { TAMANHO_PAGINA } from '../models/Livro.ts';
 import type { DadosLivro, Livro } from '../models/Livro.ts';

@@ -1,3 +1,4 @@
+// Gera os scripts SQL de estrutura e demonstração a partir dos dados do projeto.
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { SCHEMA } from '../database/schema.ts';

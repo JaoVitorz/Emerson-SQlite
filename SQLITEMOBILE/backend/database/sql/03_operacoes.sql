@@ -1,3 +1,4 @@
+-- Exemplos didáticos de consultas SQL CRUD e paginação para estudo manual.
 -- Referência didática. No aplicativo os valores são passados por parâmetros ?.
 -- SELECT não modifica os dados. Execute INSERT/UPDATE/DELETE individualmente
 -- e substitua os valores e o ID pelo registro desejado.

@@ -1,3 +1,4 @@
+-- Insere uma carga demonstrativa de 12 livros sem repetir os registros já marcados.
 -- Execute depois de 01_estrutura.sql em um banco novo.
 -- A marca demo_v1 impede repetir a carga.
 BEGIN TRANSACTION;

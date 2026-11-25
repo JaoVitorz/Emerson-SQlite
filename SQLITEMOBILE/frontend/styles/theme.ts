@@ -1,3 +1,4 @@
+// Define as cores, a fonte serifada e as cores das capas usadas pelo projeto.
 import { Platform } from 'react-native';
 
 export const C = {
